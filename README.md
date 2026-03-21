@@ -141,23 +141,4 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ---
 
-## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
-## 📝 License
-
-This project is currently unlicensed. Please add a LICENSE file to detail the usage terms.
-
----
-<div align="center">
-  <i>Developed with ❤️ for Students</i>
-</div>
